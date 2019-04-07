@@ -1,10 +1,10 @@
 # Cheese Learning
 Detecting cheese with Machine Learning tech !
 
-#Dependencies
+# Dependencies
 None yet.
 
-#Todo
+# Todo
 - Select a list of Cheese in `.txt`.
 - Create image dataset from Google Image (Python Scraper)
 - Repurpose Inception with cheese 

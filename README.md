@@ -17,3 +17,7 @@ Detecting cheese with Machine Learning tech !
 - [ ] Picture cleaning and augmentation (Mifour)
 - [ ] Repurpose Inception with cheese 
 - [ ] Port to Tensorflow Mobile !
+
+# Authors
+- [Arnaud de Saint Meloir](https://arnaud.at/) 
+- [Mifour](https://github.com/Mifour)

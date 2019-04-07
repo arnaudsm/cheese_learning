@@ -2,15 +2,17 @@
 Detecting cheese with Machine Learning tech !
 
 # Dependencies
-None yet.
-
-# Prerequisitories
-- Python Python >=3.5 
+- Python >=3.5 
 - Tensorflow >=1.2.0
-- `pip install numpy pandas google_images_download` 
+- Numpy + Pandas
+- [Google Images Download](https://github.com/hardikvasa/google-images-download)
+
+`pip install numpy pandas google_images_download tensorflow ` 
 
 # Todo
-- ☑ Select a list of Cheese in `.txt`.
-- ☐ Create image dataset from Google Image (Python Scraper)
+- ☑ Select a list of Cheese in `.txt` (Mifour)
+- ☑ Create image dataset from Google Image (Arnaudsm)
+- ☐ Remove bad pictures by hand
+- ☐ Picture cleaning and augmentation (Mifour)
 - ☐ Repurpose Inception with cheese 
 - ☐ Port to Tensorflow Mobile !

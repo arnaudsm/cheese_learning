@@ -1,8 +1,8 @@
-debug = False
-
-
 import pandas as pd 
 from google_images_download import google_images_download
+
+debug = False
+
 
 ##CSV Importing
 df = pd.read_csv("dataset/frenchcheese.csv", sep = ';', error_bad_lines=False)  

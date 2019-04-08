@@ -1,0 +1,37 @@
+index,Name,French Page,English Page,Image,Milk
+0,Gruyère français,http://fr.wikipedia.org/wiki/Gruy%C3%A8re_fran%C3%A7ais,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/f9f6d1919222e77d20c30b5b163b3cae,Cow Milk
+1,Munster,http://fr.wikipedia.org/wiki/Munster_%28fromage%29,http://en.wikipedia.org/wiki/Munster_cheese,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/2618e59a0095c27c8f2e3daff7cd0ac7,Cow Milk
+2,Bleu d'Auvergne,http://fr.wikipedia.org/wiki/Bleu_d%27Auvergne,http://en.wikipedia.org/wiki/Bleu_d%27Auvergne,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/17de219df776700d7b20de3cd03ef3c9,Cow Milk
+3,Pont-l'évêque,http://fr.wikipedia.org/wiki/Pont-l%27%C3%A9v%C3%AAque_%28fromage%29,http://en.wikipedia.org/wiki/Pont-l%27%C3%89v%C3%AAque_cheese,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/2e48d38c90bcb7adaf2756f7c1c6115e,Cow Milk
+4,Tomme des Pyrénées,http://fr.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es,http://en.wikipedia.org/wiki/Tomme_des_Pyr%C3%A9n%C3%A9es,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/1c4b175a126c15dbb719c256ca380430,Cow Milk
+5,Pélardon,http://fr.wikipedia.org/wiki/P%C3%A9lardon,http://en.wikipedia.org/wiki/P%C3%A9lardon,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/39d6a083f62b9c01967327b3c2fa9ca2,Goat Milk
+6,Sainte-Maure de Touraine,http://fr.wikipedia.org/wiki/Sainte-Maure_de_Touraine_%28fromage%29,http://en.wikipedia.org/wiki/Sainte-Maure_de_Touraine,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/bef16ee8337f5ccaaefd297125d0f621,Goat Milk
+7,Valençay,http://fr.wikipedia.org/wiki/Valen%C3%A7ay_%28fromage%29,http://en.wikipedia.org/wiki/Valen%C3%A7ay_cheese,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/991be7dfda8932e50932d3f71e9e8d7e,Goat Milk
+8,Brie de Meaux,http://fr.wikipedia.org/wiki/Brie_de_Meaux,http://en.wikipedia.org/wiki/Brie_de_Meaux,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/27008672bdd6146a34bc9dbea1b86699,Cow Milk
+9,Picodon,http://fr.wikipedia.org/wiki/Picodon,http://en.wikipedia.org/wiki/Picodon,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/b41a6fce12817990039484af0f0740ad,Goat Milk
+10,Charolais,http://fr.wikipedia.org/wiki/Charolais_%28fromage%29,,,Goat Milk
+11,Morbier,http://fr.wikipedia.org/wiki/Morbier_%28fromage%29,http://en.wikipedia.org/wiki/Morbier_cheese,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/1e051cae6645b90fad7a1a20a8ca9b57,Cow Milk
+12,Brie de Melun,http://fr.wikipedia.org/wiki/Brie_de_Melun,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/8bc840daee16f23717b777472d5d9d2b,Cow Milk
+13,Époisses,http://fr.wikipedia.org/wiki/%C3%89poisses_%28fromage%29,http://en.wikipedia.org/wiki/%C3%89poisses_de_Bourgogne,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/9c0494f4987daddabadbab3d0f319d8b,Cow Milk
+14,Laguiole,http://fr.wikipedia.org/wiki/Laguiole_%28fromage%29,http://en.wikipedia.org/wiki/Laguiole_cheese,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/837833bf96d4faa94419808bb814a9a5,Cow Milk
+15,Rollot,http://fr.wikipedia.org/wiki/Rollot_%28fromage%29,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/8001539f032d6a58f5a1d8bdd5a9e20d,Cow Milk
+16,Tome fraîche,http://fr.wikipedia.org/wiki/Tome_fra%C3%AEche,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/191d42d80087d151b40aa9f4eabe524b,Cow Milk
+17,Cabécou,http://fr.wikipedia.org/wiki/Cab%C3%A9cou,http://en.wikipedia.org/wiki/Cab%C3%A9cou,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/f02b8274b28fc1a3d11d015293966b06,Goat Milk
+18,Pavé d'Auge,http://fr.wikipedia.org/wiki/Pav%C3%A9_d%27Auge,,,Cow Milk
+19,Bleu de Gex,http://fr.wikipedia.org/wiki/Bleu_de_Gex,http://en.wikipedia.org/wiki/Bleu_de_Gex,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/ec031cc40f7206ab2aea0b956716ee74,Cow Milk
+20,Rebarbe,http://fr.wikipedia.org/wiki/Rebarbe,,,Sheep Milk
+21,Saint-nectaire,http://fr.wikipedia.org/wiki/Saint-nectaire_%28fromage%29,http://en.wikipedia.org/wiki/Saint-Nectaire,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/0b98acfc96cbdfdd1e6630b35bbb4b7a,Cow Milk
+22,Emmental de Savoie,http://fr.wikipedia.org/wiki/Emmental_de_Savoie,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/ac77be41df2f25214229f25b25b357c7,Cow Milk
+23,Fourme de Montbrison,http://fr.wikipedia.org/wiki/Fourme_de_Montbrison,http://en.wikipedia.org/wiki/Fourme_de_Montbrison,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/a2b41464f94e829c74a3ce628edfced2,Cow Milk
+24,Ossau-iraty,http://fr.wikipedia.org/wiki/Ossau-iraty,http://en.wikipedia.org/wiki/Ossau-Iraty,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/e7c0db968c73d11cd1b81d948dddecd5,Sheep Milk
+25,Chaussée aux moines,http://fr.wikipedia.org/wiki/Chauss%C3%A9e_aux_moines,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/d0553b313fb7fefcd31d23e43ebbdf5f,Cow Milk
+26,Bleu des Causses,http://fr.wikipedia.org/wiki/Bleu_des_Causses,http://en.wikipedia.org/wiki/Bleu_des_Causses,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/4e875a4aa0ead907f2082b8838ca2f52,Cow Milk
+27,Mâconnais,http://fr.wikipedia.org/wiki/M%C3%A2connais_%28fromage%29,http://en.wikipedia.org/wiki/M%C3%A2connais_cheese,,Goat Milk
+28,Soumaintrain,http://fr.wikipedia.org/wiki/Soumaintrain_%28fromage%29,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/68375e80b7479407ca8fc50b6870e2b4,Cow Milk
+29,Chevret du Haut-Jura,http://fr.wikipedia.org/wiki/Chevret_du_Haut-Jura,,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/9829fd7240102fb426d65264161a9390,Cow Milk
+30,Dauphin,http://fr.wikipedia.org/wiki/Dauphin_%28fromage%29,,,Cow Milk
+31,Rigotte de Condrieu,http://fr.wikipedia.org/wiki/Rigotte_de_Condrieu,http://en.wikipedia.org/wiki/Rigotte_de_Condrieu,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/effedffa1f7b7dc1cf2672f6394a6ead,Goat Milk
+32,Pérail,http://fr.wikipedia.org/wiki/P%C3%A9rail,http://en.wikipedia.org/wiki/Perail,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/1496ec8cc33475ce6893d99cba700c47,Sheep Milk
+33,Neufchâtel,http://fr.wikipedia.org/wiki/Neufch%C3%A2tel_%28fromage%29,http://en.wikipedia.org/wiki/Neufch%C3%A2tel_cheese,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/d073e0e35c9b4974ba70fca0ebda3e7e,Cow Milk
+34,Bleu du Vercors-Sassenage,http://fr.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage,http://en.wikipedia.org/wiki/Bleu_du_Vercors-Sassenage,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/3707507d17a39d7e957b2d2c0ed2608c,Cow Milk
+35,Crottin de Chavignol,http://fr.wikipedia.org/wiki/Crottin_de_Chavignol,http://en.wikipedia.org/wiki/Crottin_de_Chavignol,https://public.opendatasoft.com/api/v2/catalog/datasets/frenchcheese/files/f509e3db9bd687657a477a6302c709c7,Goat Milk

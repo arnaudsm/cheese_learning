@@ -54,7 +54,7 @@ features_extractor_layer.trainable = False
 
 
 
-model = tf.contrib.saved_model.load_keras_model("./saved_models/1554760196")
+model = tf.contrib.saved_model.load_keras_model("./saved_models/1554762172")
 model.summary()
 
 init = tf.global_variables_initializer()
@@ -68,7 +68,11 @@ label_names_df = pd.read_csv("dataset/best_cheese.csv", sep = ',', error_bad_lin
 label_names = label_names_df["Name"].values
 
 
+#Testing
+result_batch = model.predict(image_batch)
 
+labels_batch = label_names[np.argmax(result_batch, axis=-1)]
+print(labels_batch)
 
 plt.figure(figsize=(10,9))
 for n in range(30):

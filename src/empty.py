@@ -1,3 +1,4 @@
+# Retrieve empty images
 from google_images_download import google_images_download
 
 terms = ["plate", "empty plate", "dining table", "faces"]
@@ -10,4 +11,4 @@ for each in terms:
     print(paths)  
 
 
-print("Task completed")
+print("Task completed") 

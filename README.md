@@ -1,6 +1,10 @@
 # Cheese Learning
 Detecting cheese with Machine Learning tech !
 
+# Are you looking for a Data Scientist ? 
+- I'm looking for a **Master Internship** in **2020** in **North America** !
+- Please check out my [Resume.](https://arnaud.at/cv)
+
 # Dependencies
 `pip install numpy pandas google_images_download tensorflow ` 
 
@@ -13,7 +17,7 @@ Detecting cheese with Machine Learning tech !
 # Todo
 - [x] Select a list of Cheese in `.txt` (Mifour)
 - [x] Create image dataset from Google Image (Arnaudsm)
-- [ ] Remove bad pictures by hand
+- [x] Remove bad pictures by hand
 - [ ] Picture cleaning and augmentation (Mifour)
 - [ ] Repurpose Inception with cheese 
 - [ ] Port to Tensorflow Mobile !
